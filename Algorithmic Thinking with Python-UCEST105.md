@@ -1,6 +1,6 @@
 | Country | University | Branch       | Version | Semester | Course Code | Course Title                      | Language | Contributor |
 |---------|------------|--------------|---------|----------|-------------|-----------------------------------|----------|-------------|
-| India   | KTU        | All Branches | 2019–23 | S1       | UCEST105    | Algorithmic Thinking with Python | English  | @Arya3077   |
+| India   | KTU        | All Branches | 2024 | S1       | UCEST105    | Algorithmic Thinking with Python | English  | @Arya3077   |
 
 # S2:Algorithmic Thinking with Python
 **University**: APJ Abdul Kalam Technological University (KTU)  
