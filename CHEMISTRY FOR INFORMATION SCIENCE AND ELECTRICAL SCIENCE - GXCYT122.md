@@ -1,3 +1,10 @@
+ Country | University | Branch | Version | Semester | Course Code | Course Title | Language | Contributor |
+|---------|------------|--------|---------|----------|-------------|--------------|----------|-------------|
+| India   | KTU        | CSE    | 2019–23 | S1/S2    | GXCYT122    | Chemistry for Information Science and Electrical Science | English  | 
+
+
+
+
 # GXCYT122 : Chemistry for Information Science and Electrical Science  
 **University**: APJ Abdul Kalam Technological University (KTU)  
 **Branch**: Common for CSE, ECE, EEE etc.  
