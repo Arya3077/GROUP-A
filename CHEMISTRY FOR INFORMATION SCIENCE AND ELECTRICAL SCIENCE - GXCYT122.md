@@ -1,4 +1,4 @@
-# S1/S2: Chemistry for Information Science and Electrical Science  
+# GXCYT122 : Chemistry for Information Science and Electrical Science  
 **University**: APJ Abdul Kalam Technological University (KTU)  
 **Branch**: Common for CSE, ECE, EEE etc.  
 **Scheme**: 2019–2024  
